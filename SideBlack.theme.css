@@ -1,0 +1,55 @@
+/**
+ * @name SideBlack
+ * @author shuvko#1304
+ * @version 1.6.0.2
+ * @description Beatiful Purple&Blue Theme Using GitHub's Source Code.
+ * @invite tvpVCz56M9
+ * @website https://immashuv.wixsite.com/paranormicas
+*/
+
+@import url('https://discordstyles.github.io/AdjustableServerWidth/base.css');
+@import url('https://discordstyles.github.io/Slate/base.css');
+
+:root {
+  --accent: 3, 102, 214;
+  --link-colour: 0,118,255;
+  --server-icon-size: 35px;
+  --server-icon-spacing: 8px;
+  --server-container-padding: 10px;
+  --base-border: #141414;
+  --text-normal: #bbbbbb;
+  --text-muted: #5b5d60;
+  --text-focus: #ffffff;
+  --background: #0d1b29;
+  --background-alt: #2a3036;
+  --background-light: #2f363d;
+  --background-dark: #1d2125;
+  --background-modifier-hover: #000000;
+  --background-modifier-active: #444d56;
+  --background-modifier-selected: #673ab7;
+  --border-radius: 18.5px;
+  --button-border-radius: 2.5px;
+  --avatar-radius: 10px;
+  --server-radius: 21.5px;
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+  --font-family-monospace: Roboto-Condensed;
+  --toolbar-height: 53px;
+  --toolbar-text-normal: #0071ff;
+  --toolbar-text-muted: #878787;
+  --toolbar-text-focus: #ffffff;
+  --toolbar-background: #1d2125;
+  --toolbar-background-hover: #2f363d;
+  --toolbar-background-active: #444d56;
+  --toolbar-background-alt: #24292e;
+  --toolbar-border: #141414;
+  --toolbar-search-background: #161a1d;
+  --toolbar-search-border: var(--toolbar-border);
+  --sidebar-width: 260px;
+  --member-height: 46px;
+  --cursor: default;
+  --status-green: 106,249,138;
+  --status-yellow: 107,83,0;
+  --status-red: 215, 58, 73;
+  --status-purple: 89, 54, 149;
+  --status-grey: 117, 128, 142;
+}
